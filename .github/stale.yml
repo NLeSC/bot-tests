@@ -1,0 +1,6 @@
+# Config file for https://github.com/probot/stale
+daysUntilStale: 1
+daysUntilClose: false
+staleLabel: Stale
+markComment: >
+  This is a reminder that this issue has been stale for 1 day, please update issue.
